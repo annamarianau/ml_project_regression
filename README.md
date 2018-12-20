@@ -17,9 +17,5 @@
     - medium samples (513), small dimension (13) 
     - attribute characteristics: numeric
 
-## Regression Models
-- Linear regression
-- Random forest
-- SVR
 
 //Todo: missing vals?

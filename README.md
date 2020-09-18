@@ -16,6 +16,3 @@
     - https://archive.ics.uci.edu/ml/datasets/Forest+Fires
     - medium samples (513), small dimension (13) 
     - attribute characteristics: numeric
-
-
-//Todo: missing vals?

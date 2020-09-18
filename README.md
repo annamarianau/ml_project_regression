@@ -1,4 +1,4 @@
-# Machine learning exercise 2
+# Machine Learning Project 2
 ## Datasets
 - Bike sharing (Kaggle)
     - https://www.kaggle.com/c/184702-tu-ml-ws-18-bike-sharing#_=_
